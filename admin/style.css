@@ -1,0 +1,9 @@
+.mytable td,th
+{
+  border:1px solid #999;
+  padding:3px 10px;
+}
+.tdbg td,th
+{
+  background:lightblue;
+}
